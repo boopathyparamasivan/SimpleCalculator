@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SimpleCalculator'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SimpleCalculator.'
+  s.summary          = 'A simple calculator'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Simple calculator ios app helps to perform addition, subraction, multiplication and division operations
                        DESC
 
-  s.homepage         = 'https://github.com/boopathy.rajkumar@gmail.com/SimpleCalculator'
+  s.homepage         = 'https://github.com/boopathyparamasivan/SimpleCalculator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'boopathy.rajkumar@gmail.com' => 'boopathy.p@zohocorp.com' }
-  s.source           = { :git => 'https://github.com/boopathy.rajkumar@gmail.com/SimpleCalculator.git', :tag => s.version.to_s }
+  s.author           = 'boopathy.rajkumar@gmail.com'
+  s.source           = { :git => 'https://github.com/boopathyparamasivan/SimpleCalculator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

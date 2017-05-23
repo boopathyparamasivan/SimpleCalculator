@@ -22,7 +22,7 @@ pod "SimpleCalculator"
 
 ## Author
 
-boopathy.rajkumar@gmail.com, boopathy.p@zohocorp.com
+boopathy.rajkumar@gmail.com,
 
 ## License
 
